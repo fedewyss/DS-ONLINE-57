@@ -6,20 +6,20 @@ sprint3
 ```
 proyecto_ejemplo/
 ├── data/ 
-│   └── original        Data inmutable, en lo posible raw de una fuente de datos
-|   └── procesada       Example module.data original inmutable
+│   └── original            Data inmutable, en lo posible raw de una fuente de datos
+|   └── procesada           Data preprocesada, ejemplo con nuevas columnas transformadas o limpia
 │ 
-├── laboratory/    jupyter notebooks.
-│   └── EDA        Data inmutable, en lo posible raw de una fuente de datos
-│   └── feature_creation       Example module.data original inmutable
-│   └── models
+├── laboratory/             notebooks en una instancia de laboratorio
+│   └── EDA                 Exploración de la data
+│   └── preprocessing       Preprocesamiento de la data, posiblemente para creación de features
+│   └── models              Implementaciones de algoritmos
 |
-├── figures/             Figures saved by notebooks and scripts.
-├── output/              Processed data, models, logs, etc.
-├── source/      Python package with source code.
+├── figures/                Imagenes guardadas de plots o resultados
+├── output/                 outputs, pesos de modelos, prediccion o hiperparámetros óptimos 
+├── source/                 modulos creados por nosotros
 │   └── __init__.py      Make the folder a package.
     └── process.py       Example module.
 ├── environment.yml      Virtual environment definition.
 ├── README.md            README with info of the project.
-└── requeriments.txt     Install and distribute your requeriments.
+└── requeriments.txt     Install requeriments.
 ```

@@ -1,8 +1,9 @@
 # DS-ONLINE-57
 sprint3
 
+## Estructura del repositorio
 
-´´´
+```
 example_project/
 ├── data/                The original, immutable data dump.
 ├── figures/             Figures saved by notebooks and scripts.
@@ -16,4 +17,4 @@ example_project/
 ├── environment.yml      Virtual environment definition.
 ├── README.md            README with info of the project.
 └── setup.py             Install and distribute your module.
-´´´
+```

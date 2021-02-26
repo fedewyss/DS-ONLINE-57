@@ -2,8 +2,8 @@
 
 ## Sprint3
 
-mentor: Federico Moreno
-mail: federicomoreno613@gmail.com
+<br> Mentor: Federico Moreno <br/>
+<br> Email: federicomoreno613@gmail.com <br/>
 
 
 

@@ -1,7 +1,13 @@
 # DS-ONLINE-57
-sprint3
 
-## Estructura del repositorio
+## Sprint3
+
+mentor: Federico Moreno
+mail: federicomoreno613@gmail.com
+
+
+
+### Estructura del repositorio
 
 ```
 proyecto_ejemplo/

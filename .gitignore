@@ -1,0 +1,17 @@
+/data
+*.ipynb_checkpoints
+# ignore all .csv files
+*.csv
+
+*.txt
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+

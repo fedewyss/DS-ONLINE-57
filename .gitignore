@@ -2,7 +2,9 @@
 *.ipynb_checkpoints
 # ignore all .csv files
 *.csv
-01-sistemas-recomendacion/netflix-prize-data
+\01-sistemas-recomendacion\data\netflix-prize-data\
+
+/01-sistemas-recomendacion/data/netflix-prize-data/
 *.txt
 
 .vscode/*

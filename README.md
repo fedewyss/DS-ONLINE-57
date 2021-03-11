@@ -5,6 +5,24 @@
 <br> Mentor: Federico Moreno <br/>
 <br> Email: federicomoreno613@gmail.com <br/>
 
+### Envorments
+
+Cada proyecto debería tener su propio enviroment con una versión de python y con determinadas librerías.
+
+Por ahora nos vamos a manejar con Anaconda pero intentaremos en algún momento instalar versiones de Ubuntu que corren en windows 
+para luego crear enviroments desde el command line.
+
+### conda prompt
+```
+conda update conda
+conda env create -f environment.yml
+### otra opcion
+conda install --file requirement.txt
+```
+cualquier duda https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+para los que ya tienen pipenvs u otros tipos de enviroments puede usar !pip install requirement.txt
+
 
 
 ### Estructura del repositorio

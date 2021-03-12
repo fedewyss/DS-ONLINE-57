@@ -5,7 +5,7 @@
 <br> Mentor: Federico Moreno <br/>
 <br> Email: federicomoreno613@gmail.com <br/>
 
-### Envorments
+### Enviroments
 
 Cada proyecto debería tener su propio enviroment con una versión de python y con determinadas librerías.
 
@@ -25,7 +25,7 @@ para los que ya tienen pipenvs u otros tipos de enviroments puede usar !pip inst
 
 
 
-### Estructura del repositorio
+### Estructura del repositorio "ideal"
 
 La estructura del repositorio simplemente es el orden de las carpetas de un proyecto. Cada team puede tener su convención y su orden. Cuestión que luego puede devenir en problemas de **reproducibilidad** del proyecto respecto a otros equipos.
 
@@ -35,7 +35,7 @@ proyecto_ejemplo/
 │   └── original            Data inmutable, en lo posible raw de una fuente de datos
 |   └── procesada           Data preprocesada, ejemplo con nuevas columnas transformadas o limpia
 │ 
-├── laboratory/             notebooks en una instancia de laboratorio
+├── laboratory/             notebooks en una instancia de laboratorio, en nuestro caso con titulo del tema
 │   └── EDA                 Exploración de la data
 │   └── preprocessing       Preprocesamiento de la data, posiblemente para creación de features
 │   └── model_training      Implementaciones de algoritmos

@@ -35,3 +35,5 @@ def vector_plot(tvects,is_vect=True,orig=[0,0,0]):
                   )
     fig = go.Figure(data=data,layout=layout)
     fig.show()
+    
+    
